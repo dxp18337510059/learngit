@@ -3,10 +3,5 @@
 456
 hello git!
 Git tracks changed!
-<<<<<<< HEAD
-Creating a new branch is quick AND simple!
-=======
-Creating a new branch is quick AND simple!
->>>>>>> feature1
-no ff!
 git is a free software!
+
